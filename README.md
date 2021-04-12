@@ -1,4 +1,4 @@
-# Keizer et al. – "_In vivo_ manipulation of a genomic locus reveals the mechanical properties of interphase chromatin"
+# Keizer et al. – _In vivo_ manipulation of a genomic locus reveals the mechanical properties of interphase chromatin
 
 Data, software and documentation to reproduce the results from Keizer et al.
 
