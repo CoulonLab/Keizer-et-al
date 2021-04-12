@@ -20,7 +20,7 @@ Veer I. P. Keizer<sup>1,2,3,\#</sup>, Simon Grosse-Holz<sup>4</sup>, Maxime Wori
 |**Final registered and rotated TIFF files**:<ul><li>All 8 cells analyzed for the 30’-PR experiment</li><li>100”-PR experiment, with time projections & kymograph</li></ul>|  | [Zenodo](https://zenodo.org/record/4674438) |
 |Data files with **trajectories and forces** for all analyzed cells| [`./data/2-trajectory_files/`](./data/2-trajectory_files/) | \" |
 |**Fiji/Python scripts** for generating these files| [`./data/3-code_and_protocol/`](./data/3-code_and_protocol/) | \" |
-| ------------------------------------------------------------ | -------------------------------- | ------- |
+| –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– | -------------------------------- | ------- |
 |Raw spinning-disk microscopy **data for force calibration**|  | [Zenodo](https://zenodo.org/record/4627062) |
 |Force maps calculated on this data|  | \" |
 |**Fiji scripts** for generating these force maps| [`./forcecalibration/scripts/`](./forcecalibration/scripts/) | \" |
