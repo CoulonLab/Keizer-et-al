@@ -23,7 +23,7 @@ Veer I. P. Keizer<sup>1,2,3,\#</sup>, Simon Grosse-Holz<sup>4</sup>, Maxime Wori
 | ---------------- |  |  |
 |Raw spinning-disk microscopy **data for force calibration**|  | [Zenodo link](https://zenodo.org/record/4627062) |
 |Force maps calculated on this data|  | (same as above) |
-|**Fiji/ImageJ scripts** for generating these force maps| `./forcecalibration/scripts/` | (same as above) |
+|**Fiji/ImageJ scripts** for generating these force maps| [`./forcecalibration/scripts/`](./test/) | (same as above) |
 | ---------------- |  |  |
 |Raw microscopy **data for single-MNP intensity calibration**|  | [Zenodo link](https://zenodo.org/record/4674531) |
 |**Fiji/ImageJ scripts** for generating average single-MNP image| `./singleMNPs/analysis/` | (same as above) |
