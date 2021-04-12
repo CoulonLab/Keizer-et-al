@@ -28,9 +28,7 @@ Veer I. P. Keizer<sup>1,2,3,#</sup>, Simon Grosse-Holz<sup>4</sup>, Maxime Worin
 |Final registered and rotated TIFF files|||
 |All 8 cells analyzed for the 30’-PR experiment| | |
 |100”-PR experiment, with time projections & kymograph (Movie S2).| | |
-
 ---
-
 |-	Data files with trajectories and force time profiles for all 9 analyzed cells.| | |
 |-	Fiji/ImageJ/Python scripts and instructions for generating these TIFF files and trajectory data files.| | |
 |---|---|---|
