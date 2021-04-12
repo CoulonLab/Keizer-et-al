@@ -18,15 +18,15 @@ Veer I. P. Keizer<sup>1,2,3,\#</sup>, Simon Grosse-Holz<sup>4</sup>, Maxime Wori
 |Description|Location on GitHub|External link|
 |---|---|---|
 |**Final registered and rotated TIFF files**:<ul><li>All 8 cells analyzed for the 30’-PR experiment</li><li>100”-PR experiment, with time projections & kymograph</li></ul>|  | [Zenodo link](https://zenodo.org/record/4674438) |
-|Data files with **trajectories and force time profiles** for all 9 analyzed cells| `./data/2-trajectory_files/` | (same as above) |
-|**Fiji/ImageJ/Python scripts** for generating these TIFF files and trajectories| `./data/3-code_and_protocol/` | (same as above) |
+|Data files with **trajectories and force time profiles** for all 9 analyzed cells| [`./data/2-trajectory_files/`](./data/2-trajectory_files/) | (same as above) |
+|**Fiji/ImageJ/Python scripts** for generating these TIFF files and trajectories| [`./data/3-code_and_protocol/`](./data/3-code_and_protocol/) | (same as above) |
 | ---------------- |  |  |
 |Raw spinning-disk microscopy **data for force calibration**|  | [Zenodo link](https://zenodo.org/record/4627062) |
 |Force maps calculated on this data|  | (same as above) |
-|**Fiji/ImageJ scripts** for generating these force maps| [`./forcecalibration/scripts/`](./test/) | (same as above) |
+|**Fiji/ImageJ scripts** for generating these force maps| [`./forcecalibration/scripts/`](./forcecalibration/scripts/) | (same as above) |
 | ---------------- |  |  |
 |Raw microscopy **data for single-MNP intensity calibration**|  | [Zenodo link](https://zenodo.org/record/4674531) |
-|**Fiji/ImageJ scripts** for generating average single-MNP image| `./singleMNPs/analysis/` | (same as above) |
+|**Fiji/ImageJ scripts** for generating average single-MNP image| [`./singleMNPs/analysis/`](./singleMNPs/analysis/) | (same as above) |
 | ---------------- |  |  |
 |**Python pipeline for concatenating** raw microscopy images| [`CoulonLab/chromag-pipeline`](https://github.com/CoulonLab/chromag-pipeline) | [Zenodo link](https://zenodo.org/record/4674417) |
 |**Magnetic simulations**:<ul><li>MagSim Python library</li><li>Jupyter notebook for calibrating and generating maps</li></ul>| [`CoulonLab/MagSim`](https://github.com/CoulonLab/MagSim) | [Zenodo link](https://zenodo.org/record/4672595) |
