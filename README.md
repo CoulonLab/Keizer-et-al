@@ -29,7 +29,7 @@ Veer I. P. Keizer<sup>1,2,3,\#</sup>, Simon Grosse-Holz<sup>4</sup>, Maxime Wori
 |**Fiji/ImageJ scripts** for generating average single-MNP image| `./singleMNPs/analysis/` | (same as above) |
 | ---------------- |  |  |
 |**Python pipeline for concatenating** raw microscopy images| [`CoulonLab/chromag-pipeline`](https://github.com/CoulonLab/chromag-pipeline) | [Zenodo link](https://zenodo.org/record/4674417) |
-|<ul><li>MagSim, **Python library for magnetic simulations**</li><li>Jupyter notebook for calibrating and generating maps</li></ul>| [`CoulonLab/MagSim`](https://github.com/CoulonLab/MagSim) | [Zenodo link](https://zenodo.org/record/4672595) |
+|**Magnetic simulations**:<ul><li>MagSim Python library</li><li>Jupyter notebook for calibrating and generating maps</li></ul>| [`CoulonLab/MagSim`](https://github.com/CoulonLab/MagSim) | [Zenodo link](https://zenodo.org/record/4672595) |
 |**Python library for force inference** using different polymer models| [`SGrosse-Holz/rouselib`](https://github.com/SGrosse-Holz/rouselib) | [Zenodo link](https://zenodo.org/record/4674399) |
 
 
