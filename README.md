@@ -15,19 +15,16 @@ Veer I. P. Keizer<sup>1,2,3,\#</sup>, Simon Grosse-Holz<sup>4</sup>, Maxime Wori
 
 ## Content of this repository
 
-|Description|Local folder|External link|
+|Description|Location on GitHub|External link|
 |---|---|---|
-|**Final registered and rotated TIFF files**:<ul><li>All 8 cells analyzed for the 30’-PR experiment</li><li>100”-PR experiment, with time projections & kymograph</li></ul>| --- | [Zenodo link](https://zenodo.org/record/4674438) |
+|**Final registered and rotated TIFF files**:<ul><li>All 8 cells analyzed for the 30’-PR experiment</li><li>100”-PR experiment, with time projections & kymograph</li></ul>|  | [Zenodo link](https://zenodo.org/record/4674438) |
 |Data files with **trajectories and force time profiles** for all 9 analyzed cells| `./data/2-trajectory_files/` | (same as above) |
 |**Fiji/ImageJ/Python scripts** for generating these TIFF files and trajectories| `./data/3-code_and_protocol/` | (same as above) |
+|Raw spinning-disk microscopy **data for force calibration**|  | [Zenodo link](https://zenodo.org/record/4627062) |
+|Force maps calculated on this data|  | (same as above) |
+|**Fiji/ImageJ scripts** for generating these force maps| `./forcecalibration/scripts/` | (same as above) |
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-| abc<ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
 
 ## Outline of this repository
 We created one folder per type of data generated. We then included subfolders or links to the movies (uploaded on the [Zenodo](https://zenodo.org/) platform) corresponding to successive steps of analysis.
