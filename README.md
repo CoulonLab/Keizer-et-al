@@ -1,4 +1,4 @@
-# "_In vivo_ manipulation of a genomic locus reveals the mechanical properties of interphase chromatin" Keizer et al.
+# "_In vivo_ manipulation of a genomic locus reveals the mechanical properties of interphase chromatin" – Keizer et al.
 
 Data, software and documentation to reproduce the results from Keizer et al.
 
@@ -11,7 +11,7 @@ As [standard practice in the field](https://www.4dnucleome.org/policies.html), r
 ## Authors
 Veer I. P. Keizer<sup>1,2,3,#</sup>, Simon Grosse-Holz<sup>4</sup>, Maxime Woringer<sup>1,2</sup>, Laura Zambon<sup>1,2,3</sup>, Koceila Aizel<sup>2</sup>, Maud Bongaerts<sup>2</sup>, Lorena Kolar-Znika<sup>1,2</sup>, Vittore F. Scolari<sup>1,2</sup>, Sebastian Hoffmann<sup>3</sup>, Edward J. Banigan<sup>4</sup>, Leonid A. Mirny<sup>4</sup>, Maxime Dahan<sup>2,§</sup>, Daniele Fachinetti<sup>3,*</sup>, Antoine Coulon<sup>1,2,*,¶</sup>
 
-<span font-size:4em;">
+<span style="font-size:4em;">
 1.	Institut Curie, PSL Research University, Sorbonne Université, CNRS UMR3664, Laboratoire Dynamique du Noyau, 75005 Paris, France
 2.	Institut Curie, PSL Research University, Sorbonne Université, CNRS UMR168, Laboratoire Physico Chimie Curie, 75005 Paris, France
 3.	Institut Curie, PSL Research University, Sorbonne Université, CNRS UMR144, Laboratoire Biologie Cellulaire et Cancer, 75005 Paris, France
