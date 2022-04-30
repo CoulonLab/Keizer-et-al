@@ -1,0 +1,40 @@
+2021/12/01 AC FD
+(edited 2022/02/12 by AC)
+
+Single MNP imaging in cytoplasm (ferritin H)
+----------------------------------------------
+
+Microscope heater ON since ~9:00, with H2O in 3 plastic holders, open bottle and tokai hit.
+
+------------------------
+Cells: U2OS-263-tetR-mCherry-aGFPnb P31 in fluorodish (40-50%). Plated 11/29.
+
+-----------------------
+MM config: liveCell_21_spectraX-laser.cfg
+Gain=30
+
+-----------------------
+Ferritin batch H
+- spun down 3000g 5min => 1.5ul supernatant + 8.5ul buffer (1.5:10 diluation)
+
+-----------------------
+10:19 Cell on microscope
+[...]
+11:34 added 0.5ml H2O
+[...]
+12:50 added 0.5ml H2O
+[...]
+13:35 added 0.5ml H2O
+[...]
+
+-----------------------
+14:06 Loaded microinjection needle with ferritin H 1.5:10 dilution (2.5ul)
+
+Microinjection parameters Pi=80hPa ti=0.2sec pc=70hPa
+
+Injected 5 positions (Pos6 to Pos10)
+
+14:56 Unloading needle 3
+
+-----------------------
+
