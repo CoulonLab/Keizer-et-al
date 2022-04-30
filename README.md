@@ -1,19 +1,6 @@
-# Keizer et al. – Live-cell micromanipulation of a genomic locus reveals interphase chromatin mechanics
+# Keizer _et al._ – Data, software and documentation
 
-Data, software and documentation to reproduce the results from [Keizer et al](https://www.biorxiv.org/content/10.1101/2021.04.20.439763v1).
-
-## Publication status
-The study [Keizer et al.](https://www.biorxiv.org/content/10.1101/2021.04.20.439763v1) is available as a preprint. It has not yet been peer reviewed and is not yet published in a journal.
-
-## Data re-use policy
-As [standard practice in the field](https://www.4dnucleome.org/policies.html), researchers using this public, but as yet unpublished data must contact the specific data producer (antoine.coulon@curie.fr) to discuss possible coordinated publication. Unpublished data are those that have never been described and referenced by a peer-reviewed publication.
-
-In addion to this restriction, all the code and data in this repository is under GPLv3 license (see the [`LICENSE`](LICENSE) file for details).
-
-## Authors
-Veer I. P. Keizer<sup>1,2,3,\#</sup>, Simon Grosse-Holz<sup>4</sup>, Maxime Woringer<sup>1,2</sup>, Laura Zambon<sup>1,2,3</sup>, Koceila Aizel<sup>2</sup>, Maud Bongaerts<sup>2</sup>, Lorena Kolar-Znika<sup>1,2</sup>, Vittore F. Scolari<sup>1,2</sup>, Sebastian Hoffmann<sup>3</sup>, Edward J. Banigan<sup>4</sup>, Leonid A. Mirny<sup>4</sup>, Maxime Dahan<sup>2,§</sup>, Daniele Fachinetti<sup>3,\*</sup>, Antoine Coulon<sup>1,2,\*,¶</sup>
-
-**1\.** Institut Curie, PSL Research University, Sorbonne Université, CNRS UMR3664, Laboratoire Dynamique du Noyau, 75005 Paris, France, **2.** Institut Curie, PSL Research University, Sorbonne Université, CNRS UMR168, Laboratoire Physico Chimie Curie, 75005 Paris, France, **3.** Institut Curie, PSL Research University, Sorbonne Université, CNRS UMR144, Laboratoire Biologie Cellulaire et Cancer, 75005 Paris, France, **4.** Department of Physics and Institute for Medical Engineering and Science, Massachusetts Institute of Technology, Cambridge, 02139 MA, USA. **\#** Present address: National Cancer Institute, NIH, Bethesda, MD, USA. **§** Deceased, **\*** Correspondence: daniele.fachinetti@curie.fr, antoine.coulon@curie.fr (**¶** Lead contact).
+Main repository to access all the data, software and documentation to reproduce the results presented in **[Keizer _et al._['Live-cell micromanipulation of a genomic locus reveals interphase chromatin mechanics'](https://www.biorxiv.org/content/10.1101/2021.04.20.439763v1)]**.
 
 ## Content of this repository
 
@@ -33,3 +20,17 @@ Veer I. P. Keizer<sup>1,2,3,\#</sup>, Simon Grosse-Holz<sup>4</sup>, Maxime Wori
 |**Python pipeline for concatenating** raw microscopy images| [`CoulonLab/chromag-pipeline`](https://github.com/CoulonLab/chromag-pipeline) | [Zenodo](https://zenodo.org/record/4674417) |
 |**Magnetic simulations**:<ul><li>MagSim Python library</li><li>Jupyter notebook for calibrating and generating maps</li></ul>| [`CoulonLab/MagSim`](https://github.com/CoulonLab/MagSim) | [Zenodo](https://zenodo.org/record/4672595) |
 |**Python library for force inference** using polymer models| [`SGrosse-Holz/rouselib`](https://github.com/SGrosse-Holz/rouselib) | [Zenodo](https://zenodo.org/record/4674399) |
+
+## Authors
+Veer I. P. Keizer<sup>1,2,3,\#</sup>, Simon Grosse-Holz<sup>4</sup>, Maxime Woringer<sup>1,2</sup>, Laura Zambon<sup>1,2,3</sup>, Koceila Aizel<sup>2</sup>, Maud Bongaerts<sup>2</sup>, Fanny Delille<sup>5</sup>, Lorena Kolar-Znika<sup>1,2</sup>, Vittore F. Scolari<sup>1,2</sup>, Sebastian Hoffmann<sup>3</sup>, Edward J. Banigan<sup>4</sup>, Leonid A. Mirny<sup>4</sup>, Maxime Dahan<sup>2,§</sup>, Daniele Fachinetti<sup>3,\*</sup>, Antoine Coulon<sup>1,2,\*,¶</sup>
+
+<sup>**1\.** Institut Curie, PSL Research University, Sorbonne Université, CNRS UMR3664, Laboratoire Dynamique du Noyau, 75005 Paris, France. **2.** Institut Curie, PSL Research University, Sorbonne Université, CNRS UMR168, Laboratoire Physico Chimie Curie, 75005 Paris, France. **3.** Institut Curie, PSL Research University, Sorbonne Université, CNRS UMR144, Laboratoire Biologie Cellulaire et Cancer, 75005 Paris, France. **4.** Department of Physics and Institute for Medical Engineering and Science, Massachusetts Institute of Technology, Cambridge, 02139 MA, USA. **5** ESPCI Paris, PSL Research University, Sorbonne Université, CNRS UMR8213, Laboratoire de Physique et d’Étude des Matériaux, 75005 Paris, France. **\#** Present address: National Cancer Institute, NIH, Bethesda, MD, USA. **§** Deceased, **\*** Correspondence: daniele.fachinetti@curie.fr, antoine.coulon@curie.fr (**¶** Lead contact).</sup>
+
+## Publication status
+The study [Keizer _et al._](https://www.biorxiv.org/content/10.1101/2021.04.20.439763v1) is currently available as a preprint. It has not yet been published in a journal.
+
+## Data re-use policy
+As [standard practice in the field](https://www.4dnucleome.org/policies.html), researchers using this public, but as yet unpublished data must contact the specific data producer (antoine.coulon@curie.fr) to discuss possible coordinated publication. Unpublished data are those that have never been described and referenced by a peer-reviewed publication.
+
+In addion to this restriction, all the code and data in this repository is under GPLv3 license (see the [`LICENSE`](LICENSE) file for details).
+
