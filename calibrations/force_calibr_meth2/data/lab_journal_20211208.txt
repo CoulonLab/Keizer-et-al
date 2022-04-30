@@ -1,0 +1,150 @@
+﻿20211208 AC/FD
+
+[Edited 20220430 AC]
+
+Attraction of 5um beads coupled with ferritin H
+
+---------------------
+---------------------
+MICROSCOPE #2
+
+---------------------
+MM config: main_06_forMicroarray.cfg (made on 20211202)
+
+SpectraX-Cyan 5%
+Exposures GFP=50ms, translight=10ms
+
+---------------------
+Array 7
+BSA 10mg in 200uL 10min RT. rinsed 2x (today)
+
+---------------------
+Using 5um beads covalently coupled to antiGFP Ab (by Fanny on 20211129)
+Coupled with ferritin H by Fanny on 20211206:
+  the 3ul of the ferritin prep (1.5:10 diulation) + 4ul of beads+Ab + 1uL BSA 1mM 
+  => 8 ul
+
+On array: 2ul prep + 150uL buffer
+
+---------------------
+
+---------------------
+
+
+For each position:
+  - first, taking a timelapse with
+    - at least 500 frames without force,
+    - then attracting the beads,
+    - then releasing the force.
+  - second, taking a single z-stack with translight channel for reference.
+
+---------------------
+
+20211208_5um-beads-Ab-Ferritin-H_array7_2
+
+magnet ON t=~500, OFF t=~700
+
+
+
+..._4
+
+magnet ON t=~500, OFF t=~650
+
+
+
+..._6
+
+magnet ON t=~500, OFF t=~800
+
+
+
+..._8
+
+magnet ON t=~500
+
+
+
+..._10
+
+magnet ON t=~500
+
+
+
+Default from now on: magnet ON t=~500
+
+
+
+
+Added 50uL buffer
+
+.
+
+..._19
+
+magnet placed between 513 and 538
+
+
+
+..._23 to _28
+
+focus above the bead
+
+12:40 Done.
+
+
+
+---------------------
+16:29 Current air temperature 19.3C
+
+
+
+---------------------
+---------------------
+MICROSCOPE #1
+
+=> Quantification of GFP fluorescence on 5um beads with ferritin H used earlier today on microscope 2 for bead attraction experiments
+
+
+
+Putting BSA onto single-well glassbottom dish and onto coverglass slide
+
+=> BSA 20mg in 500uL 10min RT. rinsed 2x (today).
+   - Dish 200uL.
+   - Coverglass 50uL
+
+
+
+Then, putting 2ul ferritin-coated bead prep + 150uL buffer (same as for attraction)
+
+ onto the single-well glassbottom dish, with coverglass on top on minimize evaporation
+
+--------------------------
+Gain=30. Exposure=100ms. SpectraCyan=5
+
+--------------------------
+Images for fluorescence convertion between microscopes:
+
+---------
+Micr1: 20211208_micr1_5um-beads-Ab-Ferritin-H_gbdishCoverglass_forConvertion_1
+ <=>
+Micr2: 20211208_micr2_5um-beads-Ab-Ferritin-H_gbdishCoverglass_forConvertion_2_1
+---------
+
+---------
+Micr1: 20211208_micr1_5um-beads-Ab-Ferritin-H_gbdishCoverglass_forConvertion_pos2a_1
+ <=>
+Micr2: 20211208_micr2_5um-beads-Ab-Ferritin-H_gbdishCoverglass_forConvertion_pos2_1
+---------
+
+
+---------------------
+MICROSCOPE #2
+
+Took translight timelapse of 5um beads (without anything) in single-well glass-bottom dish with BSA.
+
+20uL of stock solution in 500uL ferritin buffer
+=> took 100uL + 700uL ferritin buffer
+
+BSA treated coverglass on top
+
+
