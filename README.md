@@ -2,6 +2,15 @@
 
 Main repository to access all the data, software and documentation to reproduce the results presented in **[Keizer _et al._['Live-cell micromanipulation of a genomic locus reveals interphase chromatin mechanics'](https://www.biorxiv.org/content/10.1101/2021.04.20.439763v1)]**.
 
+
+| Description | Location |
+| ----------- | :---: |
+| **Raw microscopy data**:<ul><li>Experiments performed with the 30’-PR scheme</li><li>Experiment performed with the 100”-PR scheme</li><li>Experiment performed with high frame rate (dt = 0.5”)</li></ul>| <sup>[Zenodo 1](https://zenodo.org/record/)* (30’-PR)	[Zenodo 2](https://zenodo.org/record/)* (30’-PR)<br> [Zenodo 3](https://zenodo.org/record/)* (30’-PR) 	[Zenodo 4](https://zenodo.org/record/)* (30’-PR)<br> [Zenodo 5](https://zenodo.org/record/)* (30’-PR) 	[Zenodo 6](https://zenodo.org/record/)* (100”-PR)<br> [Zenodo 7](https://zenodo.org/record/)* (30’-PR) 	[Zenodo 8](https://zenodo.org/record/)* (30’-PR)<br> [Zenodo 9](https://zenodo.org/record/)* (dt = 0.5")	[Zenodo 10](https://zenodo.org/record/)* (30’-PR)</sup> |
+
+
+<sup>* Will be made public upon publication of the study [Keizer et al.].</sup>
+
+
 ## Content of this repository
 
 |Description|Location on GitHub|External link|
