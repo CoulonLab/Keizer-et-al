@@ -11,6 +11,7 @@ Main repository to access all the data, software and documentation to reproduce 
 | <ul><li>**Final registered and rotated TIFF files**:<br>- **30’-PR** experiments: n = 35 cells<br>- **100”-PR** experiment, including time projections & kymograph<br>- **dt = 0.5”** experiments: n = 3 cells<br>- **no force**: n = 11 and 8 cells before and after manipulation</li><li>**Trajectory and force time profile** data files for all cells</li><li>Instructions and Fiji/Python scripts to reproduce these files.</li></ul> | <sup>[./data/](./data/)</sup> <br><sup><sub>[Zenodo 13](https://zenodo.org/record/)* for large files.</sup></sub> |
 | Single-MNPs fluorescence: raw data, Python/Fiji scripts and instructions | <sup>[./calibrations/single_MNPs/](./calibrations/single_MNPs/)</sup> <br><sup><sub>[Zenodo 14](https://zenodo.org/record/)* for large files.</sup></sub> |
 | <ul><li>MagSim, Python library for magnetic simulations</li><li>Jupyter notebook for calibrating and generating maps</li></ul> |	<sub>[**MagSim** repository](https://github.com/CoulonLab/MagSim)</sub> |
+| **Force calibration - Method 1**: Gradient of free GFP-ferritin in solution<ul><li>Raw microscopy data (6 pillars)</li><li>Calculated force maps, Fiji scripts and instructions</li></ul> | <sup>[./calibrations/force_calibr_meth1/](./calibrations/force_calibr_meth1/)</sup> <br><sup><sub>[Zenodo 15](https://zenodo.org/record/4627062)* for large files.</sup></sub> |
 
 
 
