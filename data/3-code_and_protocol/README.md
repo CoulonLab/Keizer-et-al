@@ -9,7 +9,7 @@ Description of how the files in [`../1-TIFF_files/`](../1-TIFF_files/) and [`../
 <sup>`20190410_Pos20_cell0_.tif`, `20190415_Pos1_cell0_.tif`, `20191217_Pos15_cell0_.tif`, `20191217_Pos22_cell3_.tif`, `20191223_Pos0_cell0_.tif`, `20191223_Pos11_cell0_.tif`, `20191223_Pos2_cell0_.tif`, `20200221_Pos4_cell0_.tif`</sup>
 
 - **Pipeline-based analysis**:<br> The other files (listed below) were generated as follows:
-  - The [ChroMag pipeline](https://github.com/CoulonLab/chromag-pipeline) was used to produce, for each cell (equiv. of manual protocol up to step 6)
+  - The **[ChroMag pipeline](https://github.com/CoulonLab/chromag-pipeline)** was used to produce, for each cell (equiv. of manual protocol up to step 6)
     - a cropped and rotated TIFF file (`fine-correction` output folder)
     - a force time profile CSV file (`exports` output folder).
   - Steps 7 to 8 of the manual protocol were performed (refinement of cell motion correction and locus tracking).
