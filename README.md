@@ -29,7 +29,7 @@ Veer I. P. Keizer<sup>1,2,3,\#</sup>, Simon Grosse-Holz<sup>4</sup>, Maxime Wori
 ## Publication status
 The study [Keizer _et al._](https://www.biorxiv.org/content/10.1101/2021.04.20.439763v1) is currently available as a preprint. It has not yet been published in a journal.
 
-## Data re-use policy
+## Reuse policy
 As [standard practice in the field](https://www.4dnucleome.org/policies.html), researchers using this public, but as yet unpublished data must contact the specific data producer (antoine.coulon@curie.fr) to discuss possible coordinated publication. Unpublished data are those that have never been described and referenced by a peer-reviewed publication.
 
 In addion to this restriction, all the code, data and documentation in this repository is under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) license. The study [Keizer _et al._](https://www.biorxiv.org/content/10.1101/2021.04.20.439763v1) is under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
