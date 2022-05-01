@@ -2,13 +2,16 @@
 
 Main repository to access all the data, software and documentation to reproduce the results presented in **[Keizer _et al._['Live-cell micromanipulation of a genomic locus reveals interphase chromatin mechanics'](https://www.biorxiv.org/content/10.1101/2021.04.20.439763v1)]**.
 
-
+  
 | Description | Location |
 | ----------- | :---: |
 | **Raw microscopy data**:<ul><li>Experiments performed with the 30’-PR scheme</li><li>Experiment performed with the 100”-PR scheme</li><li>Experiment performed with high frame rate (dt = 0.5”)</li></ul>| <sub> <sup>[Zenodo 1](https://zenodo.org/record/)* (30’-PR),	[Zenodo 2](https://zenodo.org/record/)* (30’-PR),<br> [Zenodo 3](https://zenodo.org/record/)* (30’-PR),	[Zenodo 4](https://zenodo.org/record/)* (30’-PR),<br> [Zenodo 5](https://zenodo.org/record/)* (30’-PR),	[Zenodo 6](https://zenodo.org/record/)* (100”-PR),<br> [Zenodo 7](https://zenodo.org/record/)* (30’-PR),	[Zenodo 8](https://zenodo.org/record/)* (30’-PR),<br> [Zenodo 9](https://zenodo.org/record/)* (dt = 0.5"),	[Zenodo 10](https://zenodo.org/record/)* (30’-PR)</sup></sub>  |
 | Concatenated TIFFs and timestamp files for all of the 30’-PR data | <sub><sup>[Zenodo 11](https://zenodo.org/record/)* (1/2),	[Zenodo 12](https://zenodo.org/record/)* (2/2)</sup></sub>  |
-| Python pipeline to generate (i) concatenated movies, (ii) cropped and<br> rotated movies for each cell, and (iii) force time profiles for each cell. | <sub>[**ChroMag** github repository](https://github.com/CoulonLab/chromag-pipeline)</sub> |
-| <ul><li>**Final registered and rotated TIFF files**:<br>- **30’-PR** experiments: n = 35 cells<br>- **100”-PR** experiment, including time projections & kymograph<br>- **dt = 0.5”** experiments: n = 3 cells<br>- **no force**: n = 11 and 8 cells before and after manipulation</li><li>**Data files with trajectories and force time profiles** for all cells</li><li>Instructions and Fiji/Python scripts to reproduce these files.</li></ul> | <sup><sub>[Zenodo 13](https://zenodo.org/record/)* for large files.</sup></sub> |
+| Python pipeline to generate (i) concatenated movies, (ii) cropped and<br> rotated movies for each cell, and (iii) force time profiles for each cell. | <sub>[**ChroMag-pipeline** repository](https://github.com/CoulonLab/chromag-pipeline)</sub> |
+| <ul><li>**Final registered and rotated TIFF files**:<br>- **30’-PR** experiments: n = 35 cells<br>- **100”-PR** experiment, including time projections & kymograph<br>- **dt = 0.5”** experiments: n = 3 cells<br>- **no force**: n = 11 and 8 cells before and after manipulation</li><li>**Trajectory and force time profile** data files for all cells</li><li>Instructions and Fiji/Python scripts to reproduce these files.</li></ul> | <sup>[./data/](./data/)</sup> <br><sup><sub>[Zenodo 13](https://zenodo.org/record/)* for large files.</sup></sub> |
+| Single-MNPs fluorescence: raw data, Python/Fiji scripts and instructions | <sup>[./calibrations/single_MNPs/](./calibrations/single_MNPs/)</sup> <br><sup><sub>[Zenodo 14](https://zenodo.org/record/)* for large files.</sup></sub> |
+| <ul><li>MagSim, Python library for magnetic simulations</li><li>Jupyter notebook for calibrating and generating maps</li></ul> |	<sub>[**MagSim** repository](https://github.com/CoulonLab/MagSim)</sub> |
+
 
 
 <sup>* Will be made public upon publication of the study [Keizer et al.].</sup>
