@@ -7,7 +7,7 @@ Main repository to access all the data, software and documentation to reproduce 
 | ----------- | :---: |
 | <ul><li>**Final cropped, rotated and registered TIFF files**:<br>- **30’-PR** experiments: n = 35 cells<br>- **100”-PR** experiment, including time projections & kymograph<br>- **dt = 0.5”** experiments: n = 3 cells<br>- **no force**: n = 11 cells before manipulation, n = 8 cells after manipulation</li><li>**Trajectory and force time profile** data files for all cells</li><li>Instructions and Fiji/Python scripts to reproduce these files.</li></ul> | <sup>[./**data**/](./data/)</sup> <br><sup><sub>[Zenodo 13](https://zenodo.org/record/6510207)* for large files.</sup></sub> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | **Analysis notebooks** to generate all graphs shown in [Keizer _et al._] | <sup>[./**notebooks**/](./notebooks/)</sup> |
-| **Python library for force inference** using different polymer models | <sup>[**rouselib** repository](https://github.com/SGrosse-Holz/rouselib)</sup> |
+| **Python library for force inference** using different polymer models | <sup>[**RouseLib** repository](https://github.com/SGrosse-Holz/rouselib)</sup> |
 
 ### RAW DATA and IMAGE ANALYSIS
 |||  
